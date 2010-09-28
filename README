@@ -1,0 +1,8 @@
+-- Kako FilterByNumberFailed treba da se ponasa ako student nije jos ni
+   pokusao da polaze predmete koje je njegova generacija zavrsila?
+   * Tehnicki ih nisu Failed, tako da je uredu da se pikaju
+   * S druge strane ako ih nisu uzeli, a do sad su trebali, u neku ruku su
+     fail.
+
+(Ovo cisto da nesto pise i u README :) )
+
